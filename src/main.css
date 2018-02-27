@@ -1,0 +1,19 @@
+body {
+  font-size: large;
+  font-family: Barlow, Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 50px;  
+}
+h2 {
+  margin-bottom: 0;
+}
+h3 {
+  background-color: #cccccc;
+  margin-top: 0;
+}
+.header {
+  text-align: center;
+  background-image: url("binary.jpg");
+  color: white;
+}
